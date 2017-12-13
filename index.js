@@ -1,5 +1,7 @@
-var name = "Susan"
-var height = "74"
+var index = require("./test.js");
+
+var name = "Susan";
+var height = "74";
 
 if (name === "Susan")
 {
